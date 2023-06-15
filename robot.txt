@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rsum.enrekangkab.go.id/assets/slot88/sitemap.xml
